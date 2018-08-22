@@ -40,7 +40,7 @@ Contributions are welcome. You can contribute to this workshop by
 
 Rob Olendorf
 
-LiZhao Ge
+Lizhao Ge
 
 
 
