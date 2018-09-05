@@ -6,7 +6,7 @@ order: 1
 
 ## Welcome
 
-Welcome to Apprentice and the jekyll-reveal.js example presentation.
+Welcome to Introduction to R & RStudio workshop.
 
 
 
