@@ -2,13 +2,7 @@
 general_notes:
   This part is for free text notes. \n
   
-  Tbh fashion axe readymade slow-carb affogato do. Organic XOXO edison bulb 
-  hashtag green juice craft beer listicle viral aliquip kitsch crucifix VHS 
-  celiac readymade chia. Laborum blue bottle echo park cloud bread, ut deserunt 
-  tumeric eu knausgaard aesthetic. Labore commodo retro, incididunt blue bottle 
-  brooklyn culpa street art in gochujang yr put a bird on it photo booth 
-  selvage bicycle rights. DIY bitters succulents, tousled lorem godard aute 
-  mollit. \n
+  This workshop is for....... \n
 
   Oh. You need a little dummy text for your mockup? How quaint.
 # Describe what needs to be setup or exist for the workshop here.
@@ -17,12 +11,7 @@ requirements:
     description: 
       This might be software, equipment, things to be printed out... \n
       
-      Lorem ipsum dolor amet put a bird on it laboris tote bag, pitchfork glossier 
-      quis fugiat knausgaard farm-to-table austin do af try-hard. Single-origin 
-      coffee fingerstache truffaut disrupt, farm-to-table letterpress venmo 
-      officia intelligentsia migas helvetica meggings hella waistcoat synth. 
-      Schlitz actually retro, pariatur minim fixie wolf. Echo park drinking 
-      vinegar gentrify small batch labore.
+      Bring their computers :)
     
   - title: Another requirement
     description: 
@@ -37,7 +26,7 @@ requirements:
 
 # Describe the timeline of the workshop here.    
 timeline: 
-  - title: First thing to do
+  - title: Introduction of the workshop and outlines
     duration: 5
     description:
       The indentation allows you to write multiple lines. \n. You can add new
