@@ -4,7 +4,18 @@ general_notes:
   
   This workshop is for....... \n
 
-  Oh. You need a little dummy text for your mockup? How quaint.
+- Understand the Pros and Cons of R
+- Learn the basics of the R language
+- Get Familiar with RStudio
+- Understand R vs RStudio
+- Be able to create an R script
+- Be able to install a package
+- Learn some basic best practices
+- Learn some basics of R markdown
+- Be able to do a basic analysis
+- Be able to do a basic visualization
+ 
+ 
 # Describe what needs to be setup or exist for the workshop here.
 requirements:
   - title: One requirement
