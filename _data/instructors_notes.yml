@@ -1,6 +1,22 @@
-# Add any useful thoughts, ideas notes etc here.
-general_notes:
-  This part is for free text notes. \n
+# This is an outline of the workshop. Plus thoughts, ideas notes, ETC.
+Outline_notes:
+  •	Get familiar with people: 
+-	Introduce ourselves
+-	Ask people’s experience with R & RStudio, e.g. heard of it before, used it before, what they want to get out from this session
+
+•	Basic introduction of R and R&RStudio (R vs. RStudio)
+-	What is it: programming, R is the language and used in RStudio 
+-	How to download and install it: install R first then RStudio
+-	Open RStudio to show different windows and its functions
+
+•	Create an R script
+-	Import files
+-	Some commend lines
+•	Regression analysis
+•	Data Visualization
+-	GG plot
+•	R markdown
+ \n
   
   This workshop is for....... \n
 
