@@ -1,55 +1,42 @@
 # This is an outline of the workshop. Plus thoughts, ideas notes, ETC.
+
 Outline_notes:
   •	Get familiar with people: 
--	Introduce ourselves
--	Ask people’s experience with R & RStudio, e.g. heard of it before, used it before, what they want to get out from this session
+    -	Introduce ourselves
+    -	Ask people’s experience with R & RStudio, e.g. heard of it before, used it before, what they want to get out from this session
 
 •	Basic introduction of R and R&RStudio (R vs. RStudio)
--	What is it: programming, R is the language and used in RStudio 
--	How to download and install it: install R first then RStudio
--	Open RStudio to show different windows and its functions
+    -	What is it: programming, R is the language and used in RStudio 
+    -	How to download and install it: install R first then RStudio
+      (show the two websites: https://www.rstudio.com/products/rstudio/download/ R downloading link is embedded)
+
+• Open RStudio to show different windows and its functions
 
 •	Create an R script
--	Import files
--	Some commend lines
+  -	Import files
+  -	Some commend lines/symbols
 •	Regression analysis
 •	Data Visualization
--	GG plot
+  -	GG plot
 •	R markdown
  \n
   
-  This workshop is for....... \n
+  This workshop is for R statistical software is an increasingly popular tool among researchers 
+  and data scientists. It is open source and free. It also features excellent support from the 
+  community as well as a huge number of community contributed packages allowing you to accomplish 
+  most any analytical and visualization task you might have in mind. R can be intimidating for 
+  new comers, as it is command line driven and the programming language is a unique. \n
 
-- Understand the Pros and Cons of R
-- Learn the basics of the R language
-- Get Familiar with RStudio
-- Understand R vs RStudio
-- Be able to create an R script
-- Be able to install a package
-- Learn some basic best practices
-- Learn some basics of R markdown
-- Be able to do a basic analysis
-- Be able to do a basic visualization
- 
+
  
 # Describe what needs to be setup or exist for the workshop here.
-requirements:
+Requirements:
   - title: One requirement
     description: 
       This might be software, equipment, things to be printed out... \n
       
       Bring their computers :)
     
-  - title: Another requirement
-    description: 
-      Actually vinyl cloud bread chambray vape +1 stumptown cornhole four 
-      dollar toast roof party velit austin banh mi. Direct trade retro quinoa 
-      offal cardigan, non hot chicken selfies magna pour-over ullamco forage 
-      laborum shaman banh mi. Raw denim adaptogen food truck ipsum tattooed 
-      venmo marfa street art pariatur XOXO franzen ad est stumptown af. Hexagon 
-      trust fund butcher offal cloud bread gochujang. Consequat vegan everyday 
-      carry austin authentic vape put a bird on it VHS. Raclette ut biodiesel 
-      bitters.
 
 # Describe the timeline of the workshop here.    
 timeline: 
