@@ -42,40 +42,19 @@ Requirements:
 timeline: 
   - title: Introduction of the workshop and outlines
     duration: 5
-    description:
-      The indentation allows you to write multiple lines. \n. You can add new
-      lines by using the \\n character, unescaped of course.
+    description:   
       
-      The title should be brief. \n
+      What is it: programming, R is the language and used in RStudio 
+      How to download and install it: install R first then RStudio
+      (show the two websites: https://www.rstudio.com/products/rstudio/download/ R downloading link is embedded)
       
-      The duration is in minutes. \n
-      
-      Lorem ipsum dolor amet tote bag ethical marfa, man braid exercitation trust 
-      fund kombucha cloud bread scenester in aliquip gastropub green juice salvia. 
-      Salvia artisan kogi letterpress. Williamsburg shaman enim fingerstache 
-      gluten-free tempor cold-pressed mustache 90's. Hexagon occaecat ethical 
-      affogato, aesthetic est mlkshk vape. Affogato sriracha try-hard, chia c
-      ommodo salvia street art hammock. Cronut literally cray sustainable slow-carb 
-      locavore godard polaroid tumeric. Pariatur PBR&B art party chartreuse.
-  - title: Second thing to do
+  - title: Introduction to R
     duration: 10
     description:
-      Beard adaptogen officia enamel pin voluptate ipsum everyday carry. 
-      Dreamcatcher man braid ad pinterest nisi cray hot chicken. Vegan beard duis 
-      aute asymmetrical butcher. Selvage actually whatever, veniam blog flannel 
-      ethical literally quis non pug mumblecore pour-over roof party.
+      
+      
   - title: Last thing to do
     duration: 20
     description: 
-      Whatever dolore semiotics irony. Tumeric exercitation craft beer pabst 
-      hella tote bag pinterest. Affogato swag etsy chartreuse, gochujang cliche 
-      raw denim plaid austin adaptogen in. Veniam iceland tumblr salvia franzen 
-      selvage. Velit franzen actually, biodiesel fam cred kogi sartorial. \n
-  
-      Mollit enim live-edge quinoa next level. Dolore before they sold out 
-      bespoke in salvia incididunt. Shaman heirloom pour-over shabby chic pickled 
-      duis, poke echo park authentic dolore. Flannel hot chicken tofu dolore 
-      treet art bushwick pok pok pour-over copper mug. Brooklyn green juice 
-      messenger bag nostrud, four loko gluten-free dolore synth pabst subway 
-      tile iPhone celiac farm-to-table kickstarter do.
+      
     
