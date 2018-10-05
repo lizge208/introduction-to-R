@@ -35,6 +35,10 @@ author:
     company:
         name: Penn State University
         # url:  http://example.com/
+author:
+    name: Lizhao Ge
+    company:
+        name: Penn State University
         
 # Any value is ok, Beginner|Intermediate|Advanced are recommended, required 
 level: Beginner
@@ -60,7 +64,7 @@ baseurl: "/introduction-to-R"
 # This allows us to put supporting files in a different repositry if desired.
 # For now just hardcode the base url too, as its complicated with github.
 # This also lets external files be references.
-supporting_files_url: "https://github.com/user_name/repo_name/"
+supporting_files_url: "https://github.com/lizge208/introduction-to-R/"
 supporting_files_path: "blob/gh-pages/supporting_files/"
 
 # Where the bibliography data is comment out or set to blank to disable.
