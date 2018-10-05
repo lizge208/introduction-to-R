@@ -1,0 +1,24 @@
+## set working directory
+setwd("C:/Users/lmg5672/Downloads")
+
+## import file
+sampledata<-read.csv("university_ht_wt.csv", header=TRUE)
+
+##view data, just the first 5 rows
+head(sampledata)
+
+##dimension of data
+dim(sampledata)
+
+
+##Running simple regression to test whether height can predict weight
+#checking assumptions like normarlity, e.g. by histogram
+hist(sampledata$weight)
+hist(sampledata$height)
+boxplot(sampledata$height,main="Boxplot of Height")
+boxplot(sampledata$weight,main="Boxplot of Weight")
+model1<-lm(sampledata$weight~sampledata$height)
+model1
+anova(model1)
+
+plot(residuals(model1))
