@@ -7,10 +7,9 @@ order: 2
 
 ## Slide 2
 
-This is the second slide. And it's just another file inside the _slides directory.
+R is a language and environment for statistical computing and graphics. It is free for download on https://www.r-project.org/
 
-It is identified as slide 2, because it has its order defined as as such
-in the front matter.
+RStudio is a free and open-source development environment for R. It is available for download on https://www.rstudio.com/
 
 ```
     ---
