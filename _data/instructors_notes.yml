@@ -12,7 +12,7 @@ Outline_notes:
 
   • Open RStudio to show different windows and its functions
 
-  •	Create an R script
+  •	Basics in R script
     -	Import files
     -	Some commend lines/symbols
   •	Regression analysis
@@ -31,11 +31,12 @@ Outline_notes:
  
 # Describe what needs to be setup or exist for the workshop here.
 Requirements:
-  - title: One requirement
+  - title: only Software
     description: 
-      This might be software, equipment, things to be printed out... \n
+      RStuido needs to be installed. Our instruction room has RStudio in all MACs. Welcome to bring
+      their own computers too. \n
       
-      Bring their computers :)
+
     
 
 # Describe the timeline of the workshop here.    
@@ -43,18 +44,32 @@ timeline:
   - title: Introduction of the workshop and outlines
     duration: 5
     description:   
+      Introduction of oursevles, Get familiar with attendees, Show Outlines
       
+  - title: Basic introduction of R and R&RStudio (R vs. RStudio)
+    duration: 10
+    description:
       What is it: programming, R is the language and used in RStudio 
       How to download and install it: install R first then RStudio
       (show the two websites: https://www.rstudio.com/products/rstudio/download/ R downloading link is embedded)
+      Open RStudio to show different windows and its functions
       
-  - title: Introduction to R
-    duration: 10
-    description:
-      
-      
-  - title: Last thing to do
-    duration: 20
+  - title: Basics in R script
+    duration: 15
     description: 
+    	Import files
+      Some commend lines/symbols
+      Search "Help"
+      Install packages
+      RMarkdown
       
+      
+  - title: Regression analysis
+    duration: 8
+    description: 
+      Run simple regression analysis
     
+  - title: Data Visualization
+    duration: 8
+    description: 
+      Simple Data Visualzation using GGplot package
