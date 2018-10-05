@@ -2,7 +2,14 @@
 layout: page
 title: Getting Started
 
-order: 0
+
+tutorial: true
+instructors_notes: true
+description: |
+  Add some stuff.
+instructors_note: |
+  Add some stuff.
+  `_config.yml`.order: 0
 
 ---
 
