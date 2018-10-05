@@ -5,20 +5,20 @@ Outline_notes:
     -	Introduce ourselves
     -	Ask people’s experience with R & RStudio, e.g. heard of it before, used it before, what they want to get out from this session
 
-•	Basic introduction of R and R&RStudio (R vs. RStudio)
+  •	Basic introduction of R and R&RStudio (R vs. RStudio)
     -	What is it: programming, R is the language and used in RStudio 
     -	How to download and install it: install R first then RStudio
       (show the two websites: https://www.rstudio.com/products/rstudio/download/ R downloading link is embedded)
 
-• Open RStudio to show different windows and its functions
+  • Open RStudio to show different windows and its functions
 
-•	Create an R script
-  -	Import files
-  -	Some commend lines/symbols
-•	Regression analysis
-•	Data Visualization
-  -	GG plot
-•	R markdown
+  •	Create an R script
+    -	Import files
+    -	Some commend lines/symbols
+  •	Regression analysis
+  •	Data Visualization
+    -	GG plot
+  •	R markdown
  \n
   
   This workshop is for R statistical software is an increasingly popular tool among researchers 
