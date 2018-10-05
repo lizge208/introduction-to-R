@@ -1,0 +1,50 @@
+This is Outline in my WORD document
+Outline:
+
+•	Get familiar with people: 
+-	Introduce ourselves
+-	Ask people’s experience with R & RStudio, e.g. heard of it before, used it before, what they want to get out from this session
+
+•	Basic introduction of R and R&RStudio (R vs. RStudio)
+-	What is it: programming, R is the language and used in RStudio 
+-	How to download and install it: install R first then RStudio
+ (show the two websites: https://www.rstudio.com/products/rstudio/download/ R downloading link is embedded) 
+Overview:
+•	Free, open-source software
+•	Multiple add-ons and extensions available, including integration with LaTeX ( a word processor) via RStudio, and Excel via RExcel
+•	Extensive online help manuals and forums
+•	Used by many statisticians and computer scientists for data mining, data analysis, and development of statistical methodology
+•	Case-sensitive language
+•	Common fields:
+•	Statistical science
+•	Computational biology
+•	Computer science
+•	Quantitative finance
+•	Engineering
+
+•	Open RStudio to show different windows and its functions
+
+•	Basics in R script
+
+-	Create R script
+-	Set Working Directory(by Tab, or by Syntax)
+-	Import files
+-	Some commend lines (attach, head, dim, etc)
+-	Some symbols
+•	Regression analysis
+•	Data Visualization
+-	GG plot
+•	R markdown (other functions as well: RShiny, etc, R presentation, etc)
+
+Objectives:
+- Understand the Pros and Cons of R
+- Learn the basics of the R language
+- Get Familiar with RStudio
+- Understand R vs RStudio
+- Be able to create an R script
+- Be able to install a package
+- Learn some basic best practices
+- Learn some basics of R markdown
+- Be able to do a basic analysis
+- Be able to do a basic visualization
+
