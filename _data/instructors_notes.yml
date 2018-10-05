@@ -1,13 +1,13 @@
 # This is an outline of the workshop. Plus thoughts, ideas notes, ETC.
 
-Outline_notes:
+Outline_notes
   •	Get familiar with people
     -	Introduce ourselves
     -	Ask people’s experience with R & RStudio, e.g. heard of it before, used it before, what they want to get out from this session
 
   •	Basic introduction of R and R&RStudio (R vs. RStudio)
     -	"What is it: programming, R is the language and used in RStudio "
-    -	How to download and install it: install R first then RStudio
+    -	"How to download and install it: install R first then RStudio"
       (show the two websites: https://www.rstudio.com/products/rstudio/download/ R downloading link is embedded)
 
   • Open RStudio to show different windows and its functions
