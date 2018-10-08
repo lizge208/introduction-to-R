@@ -3,6 +3,7 @@ layout: page
 title: Getting Started
 
 order: 0
+duration: 10
 tutorial: true
 instructors_notes: true
 description: |
