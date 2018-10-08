@@ -23,7 +23,6 @@ order: 20
   </div>
   
   <div class="two-col right">
-  
     <figure>
       <img src="{{ site.baseurl }}/assets/img/slides/rlogo.png" alt="R Logo"/>
     </figure>
