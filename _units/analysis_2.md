@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Data Analysis 2
@@ -18,7 +17,6 @@ supporting_files:
     file_name: 'analysis_2.R'
     link_text: Example script for this unit.  
 ---
-
 
 
 ### Loading And Saving Data
@@ -416,20 +414,3 @@ does the same thing as the lines above, plus we add a save (Figure 3d).
 ```
 
     
-
-
-
-
-   
-
-        
-        
-
-    
-
-
-
-
-
-
-
