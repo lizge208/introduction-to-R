@@ -6,7 +6,6 @@ order: 50
 
 ## Goals and Objectives
 
-- Understand the Pros and Cons of R
 - Learn the basics of the R language
 - Get Familiar with RStudio
 - Understand R vs RStudio
