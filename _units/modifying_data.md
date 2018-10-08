@@ -2,8 +2,17 @@
 layout: page
 title: Modifying Data
 
-order: 7
+order: 60
+
+duration: 10
+
+tutorial: true
+instructors_notes: true
+
+description: |
+  
 ---
+
 
 Now that we have spent some time getting to know our data, we may need
 to modify, or subset it. Common reasons for doing this are, the data needs 
