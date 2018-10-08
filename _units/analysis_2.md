@@ -2,13 +2,23 @@
 layout: page
 title: Data Analysis 2
 
-order: 9
+order: 80
+
+duration:10
+
+tutorial: true
+instructors_notes: true
+
+description: |
+  
 
 supporting_files: 
   - file: id1
     file_name: 'analysis_2.R'
     link_text: Example script for this unit.  
 ---
+
+
 
 ### Loading And Saving Data
 
