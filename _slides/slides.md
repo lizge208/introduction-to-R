@@ -4,23 +4,32 @@ order: 20
 
 ---
 
-## I Very Brief History Of R  
+## I Very Brief History Of R 
 
-*** {name: left}
-
-- **_S_ language (1976)**
-  - Developed in Bell Labs
-  - An Alternative to **_Fortran_** Routines
+<div>
+  <div class="two-col left">
+    <ul>
+      <li><strong>S language (1976)</strong></li>
+      <ul>
+        <li>Developed in Bell Labs</li>
+        <li>An Alternative to <em><strong>Fortrant</strong></em> Routines
+      </ul>
+      <br>
+      <li><strong>R Language</strong></li>
+      <ul>
+        <li>Derived from <em><strong>S</em></strong> and <em><strong>Scheme</em></strong></li>
+      </ul>
+    </ul>
+  </div>
   
-  <br/>
+  <div class="two-col right">
   
-- **_R_ Language**
-  - Derived from **_S_** and **_Scheme_** (1993)
-  - Open Source under the Free Software Foundation's GNU general license (1995)
-
-*** {name: right}
-
-  ![R Logo](assets/img/rlogo.png "R Logo")
+    <figure>
+      <img src="{{ site.baseurl }}/assets/img/slides/rlogo.png" alt="R Logo"/>
+    </figure>
+  
+  </div>
+</div>
 
 
 
