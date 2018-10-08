@@ -1,8 +1,17 @@
 ---
 layout: page
-title: R Basics - Functions and Packages
+title:  R Basics - Functions and Packages
 
-order: 4
+order: 30
+duration: 5
+
+
+tutorial: true
+instructors_notes: true
+description: |
+
+
+---
 
 supporting_files:
   - file: id1
