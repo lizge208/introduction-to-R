@@ -2,8 +2,14 @@
 layout: page
 title: Descriptive Visualizations
 
-order: 6
+order: 50
 
+duration:10
+
+tutorial: true
+instructors_notes: true
+
+description: |
 
 supporting_files: 
   - file: id1
