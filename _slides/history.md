@@ -17,7 +17,7 @@ order: 20
       <br>
       <li><strong>R Language</strong></li>
       <ul>
-        <li>Derived from <em><strong>S</em></strong> and <em><strong>Scheme</em></strong></li>
+        <li>Derived from S and Scheme</li>
       </ul>
     </ul>
   </div>
