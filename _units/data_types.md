@@ -3,12 +3,19 @@ layout: page
 title: R Basics - Data Types
 
 order: 3
+
+duration: 10
+
+tutorial: true
+instructors_notes: true
+
+description: |
+  
     
 supporting_files:
   - file: id1
     file_name: data_types.R
-    link_text: Example script for this unit.
-    
+    link_text: Example script for this unit.   
 ---
 
 R is a dynamically typed language. In some languages, like C++ or Java
