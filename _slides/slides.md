@@ -1,26 +1,26 @@
 ---
 
-order: 2
+order: 20
 
 ---
 
+## I Very Brief History Of R  
 
-## Slide 2
+*** {name: left}
 
-R is a language and environment for statistical computing and graphics. It is free for download on https://www.r-project.org/
+- **_S_ language (1976)**
+  - Developed in Bell Labs
+  - An Alternative to **_Fortran_** Routines
+  
+  <br/>
+  
+- **_R_ Language**
+  - Derived from **_S_** and **_Scheme_** (1993)
+  - Open Source under the Free Software Foundation's GNU general license (1995)
 
-RStudio is a free and open-source development environment for R. It is available for download on https://www.rstudio.com/
+*** {name: right}
 
-```
-    ---
-    
-    # Previous slide was less than 2
-    
-    order: 2
-    
-    # Next slide is greater than 2
-    
-    ---
+  ![R Logo](assets/img/rlogo.png "R Logo")
 
-```
+
 
