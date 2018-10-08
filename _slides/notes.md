@@ -6,11 +6,13 @@ order: 50
 
 ## Goals and Objectives
 
-- Learn the basics of the R language
-- Get Familiar with RStudio
-- Understand R vs RStudio
-- Be able to create an R script
-- Be able to install a package
-- Learn some basic best practices
-- Be able to do a basic analysis
-- Be able to do a basic visualization
+<ul>
+  {% if site.data.objectives and site.data.objectives.size > 0 %}
+    {% for objective in site.data.objectives %}
+      <li>{{ objective | markdownify }}</li>
+    {% endfor %}
+  {% else %}
+    <li>None Specified</li>
+  {% endif %}
+</ul>
+
