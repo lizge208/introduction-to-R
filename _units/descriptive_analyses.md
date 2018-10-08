@@ -32,7 +32,7 @@ a page called R Data Sets will display in your top left view port. You
 can also use `data(package = .packages(all.available = TRUE))` and R will
 display all the data sets included in your packages, grouped by the package.
 While most data sets in packages for provided as an example, there are also
-packaages where the data set IS the package, the **ISOcodes** package for 
+packages where the data set IS the package, the **ISOcodes** package for 
 example consist only of lists of various standard codes such as country codes.
 
 ### Learning About Your Data
