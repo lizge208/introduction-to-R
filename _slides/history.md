@@ -12,7 +12,7 @@ order: 20
       <li><strong>S language (1976)</strong></li>
       <ul>
         <li>Developed in Bell Labs</li>
-        <li>An Alternative to <em><strong>Fortran</strong></em> Routines
+        <li>An Alternative to <em><strong>Fortran</strong></em> Routines</li>
       </ul>
       <br/>
       <li><strong>R Language</strong></li>
