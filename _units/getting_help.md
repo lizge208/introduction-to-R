@@ -2,7 +2,15 @@
 layout: page
 title: Getting Help
 
-order: 10
+order: 90
+
+duration: 10
+
+tutorial: true
+instructors_notes: true
+
+description: |
+
 ---
 
 ### The Help() Function
@@ -15,7 +23,7 @@ order: 10
 
 #### Other Resource
 
-* Quick R
+* [Quick R] {https://www.statmethods.net/}
 * GGPlot
 * 
     
