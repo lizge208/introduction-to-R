@@ -10,9 +10,6 @@ tutorial: true
 instructors_notes: true
 description: |
 
-
----
-
 supporting_files:
   - file: id1
     file_name: functions.R
