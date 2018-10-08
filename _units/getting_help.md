@@ -23,7 +23,7 @@ description: |
 
 #### Other Resource
 
-* [Quick R] {https://www.statmethods.net/ }
+* [Quick R] (https://www.statmethods.net/ )
 * GGPlot
 * 
     
