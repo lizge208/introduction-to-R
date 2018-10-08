@@ -3,6 +3,7 @@ layout: page
 title: An Overview of R
 
 order: -10
+duration: 5
 
 
 tutorial: true
