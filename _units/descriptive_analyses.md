@@ -2,7 +2,14 @@
 layout: page
 title: Getting To Know Your Data
 
-order: 5
+order: 40
+
+duration:10
+
+tutorial: true
+instructors_notes: true
+
+description:|
 
 supporting_files:
   - file: id1
