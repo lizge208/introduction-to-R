@@ -1,21 +1,3 @@
----
-layout: page
-title: Getting To Know Your Data
-
-order: 40
-duration:10
-
-tutorial: true
-instructors_notes: true
-description:|
-
-supporting_files:
-  - file: id1
-    file_name: 'descriptive_analysis.R'
-    link_text: Example script for this unit.  
----
-
-
 In this unit we'll learn how to view, select and transform data. We'll also 
 do some basic descriptive analysis and visualizations. This will not only
 get you more comfortable with R, but the first thing you should do with any
