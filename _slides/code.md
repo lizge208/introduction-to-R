@@ -1,23 +1,14 @@
 ---
 
-order: 4
+0order: 4
 
 ---
 
-With syntax highlighting for your code:
+## Why Use R?
 
-```
-import pprint
-
-class MyClass(object):
-    def __init__(self):
-        self.a = 1
-
-    @classmethod
-    def some_classmethod(cls, a):
-        self.a = a
-
-if __name__ == "__main__":
-    # This is a comment
-    pprint.pprint({'Key1': 0x34, 'Key2': 'Hi'})
-```
+- It's FREE!
+- Built by statisticians
+- Excellent Visualizations
+- Strong Documentation (Usually)
+- Good For Reproducibility
+- Large Active Community of Users
