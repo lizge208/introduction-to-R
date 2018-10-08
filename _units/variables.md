@@ -2,7 +2,15 @@
 layout: page
 title: R Basics - Variables
 
-order: 2
+order: 20
+
+duration: 10
+
+tutorial: true
+instructors_notes: true
+
+description: |
+  
     
 supporting_files:
   - file: 'id1'
