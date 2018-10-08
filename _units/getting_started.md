@@ -2,7 +2,7 @@
 layout: page
 title: Getting Started
 
-
+order: 0
 tutorial: true
 instructors_notes: true
 description: |
