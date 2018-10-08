@@ -2,15 +2,18 @@
 layout: page
 title: An Overview of R
 
-order: 1
+order: -10
 
-links:
-  next:
-    href: getting_started
-    text: Getting Started With R
-  root:
-    href: '/'
-    text: Table of Contents
+
+tutorial: true
+instructors_notes: true
+description: |
+  Learn a little history about the development of R. We also go over what R is and just as importantly what it is not.
+instructors_note: |
+  This part is really optional, but you can lead off a workshop using the slides for this portion. It gives people a few extra moments
+  if they arrive late.
+
+
 
 ---
 
