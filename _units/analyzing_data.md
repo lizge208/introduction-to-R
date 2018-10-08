@@ -2,7 +2,14 @@
 layout: page
 title: Analyzing Data
 
-order: 8
+order: 70
+
+duration: 10
+tutorial: true
+instructors_notes: true
+
+description: |
+  
 ---
 
 
