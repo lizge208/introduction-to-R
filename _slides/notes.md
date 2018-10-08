@@ -1,13 +1,18 @@
 ---
 
-order: 5
+order: 50
 
 ---
 
-# A hidden treasure
+## Goals and Objectives
 
-This slide has a hidden treasure. Press "s" to see the speaker notes.
-
-Note:
-
-THIS TEXT IS HIDDEEEEEEEN! :)
+- Understand the Pros and Cons of R
+- Learn the basics of the R language
+- Get Familiar with RStudio
+- Understand R vs RStudio
+- Be able to create an R script
+- Be able to install a package
+- Learn some basic best practices
+- Learn some basics of R markdown
+- Be able to do a basic analysis
+- Be able to do a basic visualization
