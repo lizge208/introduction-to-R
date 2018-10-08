@@ -6,10 +6,9 @@ order: 0
 tutorial: true
 instructors_notes: true
 description: |
-  Add some stuff.
+  Learn how to install R and R Studio. Also learn the R Studio Interface.
 instructors_note: |
-  Add some stuff.
-  `_config.yml`.order: 0
+  For live workshops, the installation part should not be required. 
 
 ---
 
