@@ -2,7 +2,7 @@
 layout: page
 title: R Basics - Variables
 
-order: 20
+order: 10
 
 duration: 10
 
