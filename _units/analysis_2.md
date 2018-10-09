@@ -4,7 +4,7 @@ title: Data Analysis 2
 
 order: 80
 
-duration:10
+duration: 10
 
 tutorial: true
 instructors_notes: true
