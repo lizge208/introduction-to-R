@@ -2,7 +2,7 @@
 layout: page
 title: R Basics - Data Types
 
-order: 10
+order: 20
 
 duration: 10
 
