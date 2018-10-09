@@ -75,7 +75,6 @@ Type them into your **_Console_** and see what happens.
   > good.name <- 37         # dot case
   > goodName                # lower camel case
   > GoodName                # upper camel case
-  > _good_name              # leading underscore
   > good_4_u                # using some number
   
   > 4_u_bad_name <- 0       # can't start with a number
